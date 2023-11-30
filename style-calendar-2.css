@@ -1,0 +1,52 @@
+body {
+	display: flex;
+	justify-content: center;
+	font-size: 40px;
+	font-family: Montserrat;
+}
+
+#mec {
+	padding: 10px;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+.day {
+	text-align: center;
+	color: white;
+}
+
+.days {
+	padding: 10px 15px 10px 15px;
+	background-color: black;
+}
+
+.num1 {
+	background-color: lightgrey;
+	text-align: center;
+	padding: 20px;
+	border: 2px solid black;
+}
+
+.num {
+	text-align: center;
+	padding: 20px;
+	border: 2px solid black;
+}
+
+.num2 {
+	background-color: lightgrey;
+	text-align: center;
+	padding: 20px;
+	border: 2px solid black;
+	color: red;
+}
+
+.num3 {
+	text-align: center;
+	padding: 20px;
+	border: 2px solid black;
+	color: red;
+}
